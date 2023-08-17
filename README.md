@@ -1,1 +1,3 @@
 # My-Resume
+# It is a webpage that describes my objective, education, skills...
+# Includes links to other webpages
